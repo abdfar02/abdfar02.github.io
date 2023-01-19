@@ -1,18 +1,16 @@
 ---
-title: Post four
-date: "2021-12-14"
+title: Post 3 tisdag
+date: "2023-01-17"
 ---
 
 <script>
  let a = 0;
 </script>
 
-Hello, I am _Post One._
 
-**Nice to meet tjena!**
 
-**sick**
+**Jag fixade clicker så att det blev en gif**
+
+jag ändrade också färger och har mer planer för nästa gång som jag kommer att dela med i nästa post så **stay tuned**
     
-<h1>{a}</h1>
 
-<button on:click={()=>{a = a + 1}}>CLICK ME</button>

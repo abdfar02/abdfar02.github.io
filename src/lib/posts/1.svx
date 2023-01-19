@@ -1,19 +1,19 @@
 ---
-title: Post One
-date: "2021-12-14"
+title: Post 1 torsdag
+date: "2023-01-12"
 ---
 
 <script>
  let a = 0;
 </script>
 
-Hello, I am _Post One._
+**Jag har ändrat cookien till en knapp **
 
-**Nice to meet you!**
-
-**sick**
-
-😀 😃 😄 😁 😆 😅 😂
+**Jag har också ändrat av points per click till turkos**
+```css
+.pointtext {
+    color: rgb(0, 200, 200);
+```
 
 <h1>{a}</h1>
 

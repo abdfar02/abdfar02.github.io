@@ -1,17 +1,10 @@
 ---
-title: Post three
-date: "2022-11-30"
+title: Post 4 torsdag
+date: "2023-01-19"
 ---
 
-<h1>Tjena</h1>
 
 
 
-# you
 
----
-
-## Whatup
-
-**sick** dude
-
+**jag fixade en explosion i backgrunden genom att ändra färgen av articeln och footern till genomskinlig**
